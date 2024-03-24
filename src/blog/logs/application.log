@@ -1,0 +1,32 @@
+17-03-2024 15:50:24.551 [restartedMain] INFO  com.ndkn.demo.DemoApplication.logStarting - Starting DemoApplication using Java 21.0.2 with PID 43450 (/Users/nguyentananh/workspace/hello-elk-springboot/apps/demo/target/classes started by nguyentananh in /Users/nguyentananh/workspace/hello-elk-springboot/apps/demo)
+17-03-2024 15:50:24.552 [restartedMain] INFO  com.ndkn.demo.DemoApplication.logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+17-03-2024 15:50:25.304 [restartedMain] INFO  com.ndkn.demo.DemoApplication.logStarted - Started DemoApplication in 0.947 seconds (process running for 1.126)
+17-03-2024 15:50:48.422 [http-nio-8080-exec-1] INFO  com.ndkn.demo.HelloController.hello - ntanh-hello
+23-03-2024 22:26:13.043 [main] INFO  com.ndkn.demo.DemoApplication.logStarting - Starting DemoApplication v0.0.1-SNAPSHOT using Java 17.0.10 with PID 25143 (/Users/nguyentananh/workspace/blogs/apps/demo/target/demo-0.0.1-SNAPSHOT.jar started by nguyentananh in /Users/nguyentananh/workspace/blogs/apps/demo)
+23-03-2024 22:26:13.059 [main] INFO  com.ndkn.demo.DemoApplication.logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+23-03-2024 22:26:14.277 [main] INFO  com.ndkn.demo.DemoApplication.logStarted - Started DemoApplication in 1.604 seconds (process running for 2.897)
+23-03-2024 22:27:41.631 [main] INFO  com.ndkn.demo.DemoApplication.logStarting - Starting DemoApplication v0.0.1-SNAPSHOT using Java 17.0.10 with PID 25573 (/Users/nguyentananh/workspace/blogs/apps/demo/target/demo-0.0.1-SNAPSHOT.jar started by nguyentananh in /Users/nguyentananh/workspace/blogs/apps/demo)
+23-03-2024 22:27:41.649 [main] INFO  com.ndkn.demo.DemoApplication.logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+23-03-2024 22:27:42.888 [main] INFO  com.ndkn.demo.DemoApplication.logStarted - Started DemoApplication in 1.667 seconds (process running for 3.009)
+23-03-2024 22:27:46.095 [http-nio-8080-exec-1] INFO  com.ndkn.demo.HelloController.hello - ntanh-hello
+23-03-2024 22:28:53.040 [main] INFO  com.ndkn.demo.DemoApplication.logStarting - Starting DemoApplication v0.0.1-SNAPSHOT using Java 17.0.10 with PID 25908 (/Users/nguyentananh/workspace/blogs/apps/demo/target/demo-0.0.1-SNAPSHOT.jar started by nguyentananh in /Users/nguyentananh/workspace/blogs/apps/demo)
+23-03-2024 22:28:53.055 [main] INFO  com.ndkn.demo.DemoApplication.logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+23-03-2024 22:28:54.291 [main] INFO  com.ndkn.demo.DemoApplication.logStarted - Started DemoApplication in 1.616 seconds (process running for 2.72)
+23-03-2024 22:29:01.048 [http-nio-8080-exec-1] INFO  com.ndkn.demo.HelloController.hello - ntanh-hello
+23-03-2024 22:35:23.619 [main] INFO  com.ndkn.demo.DemoApplication.logStarting - Starting DemoApplication v0.0.1-SNAPSHOT using Java 17.0.10 with PID 27593 (/Users/nguyentananh/workspace/blogs/apps/demo/target/demo-0.0.1-SNAPSHOT.jar started by nguyentananh in /Users/nguyentananh/workspace/blogs/apps/demo)
+23-03-2024 22:35:23.639 [main] INFO  com.ndkn.demo.DemoApplication.logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+23-03-2024 22:35:58.640 [main] INFO  com.ndkn.demo.DemoApplication.logStarting - Starting DemoApplication v0.0.1-SNAPSHOT using Java 17.0.10 with PID 27799 (/Users/nguyentananh/workspace/blogs/apps/demo/target/demo-0.0.1-SNAPSHOT.jar started by nguyentananh in /Users/nguyentananh/workspace/blogs/apps/demo)
+23-03-2024 22:35:58.655 [main] INFO  com.ndkn.demo.DemoApplication.logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+23-03-2024 22:37:01.053 [main] INFO  com.ndkn.demo.DemoApplication.logStarting - Starting DemoApplication v0.0.1-SNAPSHOT using Java 17.0.10 with PID 28168 (/Users/nguyentananh/workspace/blogs/apps/demo/target/demo-0.0.1-SNAPSHOT.jar started by nguyentananh in /Users/nguyentananh/workspace/blogs/apps/demo)
+23-03-2024 22:37:01.077 [main] INFO  com.ndkn.demo.DemoApplication.logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+23-03-2024 22:37:02.300 [main] INFO  com.ndkn.demo.DemoApplication.logStarted - Started DemoApplication in 1.635 seconds (process running for 2.879)
+23-03-2024 22:37:13.702 [http-nio-8080-exec-1] INFO  com.ndkn.demo.HelloController.hello - ntanh-hello
+24-03-2024 12:55:56.840 [restartedMain] INFO  com.ndkn.demo.DemoApplication.logStarting - Starting DemoApplication using Java 17.0.10 with PID 17966 (/Users/nguyentananh/workspace/opentelemetry-demo/src/blog/target/classes started by nguyentananh in /Users/nguyentananh/workspace/opentelemetry-demo/src/blog)
+24-03-2024 12:55:56.841 [restartedMain] INFO  com.ndkn.demo.DemoApplication.logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+24-03-2024 12:55:57.936 [restartedMain] INFO  com.ndkn.demo.DemoApplication.logStarted - Started DemoApplication in 1.294 seconds (process running for 1.474)
+24-03-2024 12:57:03.445 [restartedMain] INFO  com.ndkn.demo.DemoApplication.logStarting - Starting DemoApplication using Java 17.0.10 with PID 18353 (/Users/nguyentananh/workspace/opentelemetry-demo/src/blog/target/classes started by nguyentananh in /Users/nguyentananh/workspace/opentelemetry-demo/src/blog)
+24-03-2024 12:57:03.446 [restartedMain] INFO  com.ndkn.demo.DemoApplication.logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+24-03-2024 12:57:04.507 [restartedMain] INFO  com.ndkn.demo.DemoApplication.logStarted - Started DemoApplication in 1.259 seconds (process running for 1.425)
+24-03-2024 13:00:20.900 [restartedMain] INFO  com.ndkn.demo.DemoApplication.logStarting - Starting DemoApplication using Java 17.0.10 with PID 19431 (/Users/nguyentananh/workspace/opentelemetry-demo/src/blog/target/classes started by nguyentananh in /Users/nguyentananh/workspace/opentelemetry-demo/src/blog)
+24-03-2024 13:00:20.901 [restartedMain] INFO  com.ndkn.demo.DemoApplication.logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+24-03-2024 13:00:21.952 [restartedMain] INFO  com.ndkn.demo.DemoApplication.logStarted - Started DemoApplication in 1.246 seconds (process running for 1.415)
